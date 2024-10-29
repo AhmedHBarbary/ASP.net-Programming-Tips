@@ -110,3 +110,4 @@ else
 
 ### for more information 
 # https://www.milanjovanovic.tech/blog/the-right-way-to-use-httpclient-in-dotnet
+# https://learn.microsoft.com/en-us/dotnet/core/extensions/httpclient-factory
